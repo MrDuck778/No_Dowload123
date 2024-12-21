@@ -1,0 +1,4 @@
+ чтобы данный код заработал установите седующие библиотеки
+TKinter(pip install tk)
+ 
+так же чтоб его компилировать в .exe нужна библиотека: auto-py-to-exe (pip install auto-py-to-exe)
